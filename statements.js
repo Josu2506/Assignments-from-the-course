@@ -1,3 +1,5 @@
+//IF ELSE PRACTICE
+
 var light = 'green'
 
 if(light == "green") {

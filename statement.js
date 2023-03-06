@@ -1,3 +1,5 @@
+//SWITCH PRACTICE
+
 var day = 'Friday';
 switch (day) {
     case 'Monday':
