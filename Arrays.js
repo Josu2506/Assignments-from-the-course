@@ -36,7 +36,7 @@ function letterFinder(word, match) {
         if(word[i] == match) {
             console.log('Found the ', match, 'at', i);
         } else {
-            console.log('---No mnatch found at', i) ;
+            console.log('---No match found at', i) ;
         }
     }
 } 
